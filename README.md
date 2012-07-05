@@ -1,6 +1,6 @@
 Info
 ----
-Set alpha transparency if any background for any image within ImpactJS on the client side.
+Set alpha transparency of any background for any image within ImpactJS on the client side.
 
 Usage
 -----
