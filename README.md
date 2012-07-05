@@ -12,4 +12,4 @@ Usage
 - For example, rather than
 loading 'media/player.png' you can change it to 'media/player.png#alpha:ff00ff' if the background colour is #ff00ff.
 
-For more info [see this forum post](http://www.impactjs.com/forums)
+For more info [see this forum post](http://impactjs.com/forums/code/set-background-color-to-transparent-tilesets-images-etc)
