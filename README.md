@@ -13,3 +13,7 @@ Usage
 loading 'media/player.png' you can change it to 'media/player.png#alpha:ff00ff' if the background colour is #ff00ff.
 
 For more info [see this forum post](http://impactjs.com/forums/code/set-background-color-to-transparent-tilesets-images-etc)
+
+Note: This is based off the image blender code by Ptg:
+
+[Image Blender](http://impactjs.com/forums/code/image-blender-tint-blend-your-images-client-side-using-any-color)
