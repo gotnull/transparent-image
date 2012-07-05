@@ -10,6 +10,6 @@ Usage
 - Append #alpha:<hexcolor> to the path in any ig.Image or ig.AnimationSheet.
 - 
 - For example, rather than
-loading 'media/player.png' you can change it to 'media/player.png#alpha:FF0000' if the background colour is #FF0000.
+loading 'media/player.png' you can change it to 'media/player.png#alpha:ff00ff' if the background colour is #ff00ff.
 
 For more info [see this forum post](http://www.impactjs.com/forums)
